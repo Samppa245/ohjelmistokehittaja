@@ -1,0 +1,12 @@
+C:\Users\samu.hamalainen\source\repos\Numeroita\Numeroita\bin\Debug\netcoreapp3.1\Numeroita.exe
+C:\Users\samu.hamalainen\source\repos\Numeroita\Numeroita\bin\Debug\netcoreapp3.1\Numeroita.deps.json
+C:\Users\samu.hamalainen\source\repos\Numeroita\Numeroita\bin\Debug\netcoreapp3.1\Numeroita.runtimeconfig.json
+C:\Users\samu.hamalainen\source\repos\Numeroita\Numeroita\bin\Debug\netcoreapp3.1\Numeroita.runtimeconfig.dev.json
+C:\Users\samu.hamalainen\source\repos\Numeroita\Numeroita\bin\Debug\netcoreapp3.1\Numeroita.dll
+C:\Users\samu.hamalainen\source\repos\Numeroita\Numeroita\bin\Debug\netcoreapp3.1\Numeroita.pdb
+C:\Users\samu.hamalainen\source\repos\Numeroita\Numeroita\obj\Debug\netcoreapp3.1\Numeroita.csproj.CoreCompileInputs.cache
+C:\Users\samu.hamalainen\source\repos\Numeroita\Numeroita\obj\Debug\netcoreapp3.1\Numeroita.AssemblyInfoInputs.cache
+C:\Users\samu.hamalainen\source\repos\Numeroita\Numeroita\obj\Debug\netcoreapp3.1\Numeroita.AssemblyInfo.cs
+C:\Users\samu.hamalainen\source\repos\Numeroita\Numeroita\obj\Debug\netcoreapp3.1\Numeroita.dll
+C:\Users\samu.hamalainen\source\repos\Numeroita\Numeroita\obj\Debug\netcoreapp3.1\Numeroita.pdb
+C:\Users\samu.hamalainen\source\repos\Numeroita\Numeroita\obj\Debug\netcoreapp3.1\Numeroita.genruntimeconfig.cache
