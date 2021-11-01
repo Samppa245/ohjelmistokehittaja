@@ -7,7 +7,7 @@ namespace Harjoituksia_v2
         static void Main()
         {
             // EKA TEHTÄVÄ
-            Console.WriteLine("HARJOITUS 1");
+            Console.WriteLine("HARJOITUS 1, syötä kaksi lukua ja ohjelma tulostaa luvut suuruusjärjestyksessä");
             
                 int X = int.Parse(Console.ReadLine());
             int y = int.Parse(Console.ReadLine());
@@ -87,7 +87,7 @@ namespace Harjoituksia_v2
             string luku = Console.ReadLine();
             switch (luku) {
                 case "MERKKIJONO":
-                    Console.WriteLine("Kerroppe merkkijono sitten");
+                    Console.WriteLine("Kerroppa merkkijono sitten");
                     string teuvo = Console.ReadLine();
                     Console.WriteLine(teuvo + "*");
                     break;
@@ -97,18 +97,51 @@ namespace Harjoituksia_v2
                     Console.WriteLine(pekka + 1);
                     break;
                 case "TUPLALUKU":
-                    Console.WriteLine();
-                    int tuomo = int.Parse(Console.ReadLine());
+                    Console.WriteLine();                    int tuomo = int.Parse(Console.ReadLine());
                     Console.WriteLine(tuomo + 1);
                     break;
+
+
+                 
             }
 
-           
+            Console.WriteLine("Tehtävä 6");
+            int pisteet = int.Parse(Console.ReadLine());
+            if (pisteet >= 0 && pisteet <= 3)
+            {
+                pisteet *= 10;
+                Console.WriteLine(pisteet);
+
+            }
+
+            else if (pisteet >= 4 && pisteet <= 6)
+            {
+                pisteet *= 100;
+                Console.WriteLine(pisteet);
+
+            }
+            else if (pisteet >= 7 && pisteet <= 9)
+            {
+                pisteet *= 1000;
+                Console.WriteLine(pisteet);
+
+            }
+            else
+            {
+                Console.WriteLine("Virhe syötä luku 0-9 väliltä");
+                }
+
+
+
+                
+
+                
+
+
+
             
+
             
-
-
-
         }
     }
 }
