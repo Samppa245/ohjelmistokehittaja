@@ -1,0 +1,13 @@
+C:\Users\samu.hamalainen\source\repot\ohjelmistokehittaja\Tehtäviä tokavika\Tokavika tehtäviä\Tokavika tehtäviä\bin\Debug\netcoreapp3.1\Tokavika tehtäviä.exe
+C:\Users\samu.hamalainen\source\repot\ohjelmistokehittaja\Tehtäviä tokavika\Tokavika tehtäviä\Tokavika tehtäviä\bin\Debug\netcoreapp3.1\Tokavika tehtäviä.deps.json
+C:\Users\samu.hamalainen\source\repot\ohjelmistokehittaja\Tehtäviä tokavika\Tokavika tehtäviä\Tokavika tehtäviä\bin\Debug\netcoreapp3.1\Tokavika tehtäviä.runtimeconfig.json
+C:\Users\samu.hamalainen\source\repot\ohjelmistokehittaja\Tehtäviä tokavika\Tokavika tehtäviä\Tokavika tehtäviä\bin\Debug\netcoreapp3.1\Tokavika tehtäviä.runtimeconfig.dev.json
+C:\Users\samu.hamalainen\source\repot\ohjelmistokehittaja\Tehtäviä tokavika\Tokavika tehtäviä\Tokavika tehtäviä\bin\Debug\netcoreapp3.1\Tokavika tehtäviä.dll
+C:\Users\samu.hamalainen\source\repot\ohjelmistokehittaja\Tehtäviä tokavika\Tokavika tehtäviä\Tokavika tehtäviä\bin\Debug\netcoreapp3.1\Tokavika tehtäviä.pdb
+C:\Users\samu.hamalainen\source\repot\ohjelmistokehittaja\Tehtäviä tokavika\Tokavika tehtäviä\Tokavika tehtäviä\obj\Debug\netcoreapp3.1\Tokavika tehtäviä.csprojAssemblyReference.cache
+C:\Users\samu.hamalainen\source\repot\ohjelmistokehittaja\Tehtäviä tokavika\Tokavika tehtäviä\Tokavika tehtäviä\obj\Debug\netcoreapp3.1\Tokavika tehtäviä.csproj.CoreCompileInputs.cache
+C:\Users\samu.hamalainen\source\repot\ohjelmistokehittaja\Tehtäviä tokavika\Tokavika tehtäviä\Tokavika tehtäviä\obj\Debug\netcoreapp3.1\Tokavika tehtäviä.AssemblyInfoInputs.cache
+C:\Users\samu.hamalainen\source\repot\ohjelmistokehittaja\Tehtäviä tokavika\Tokavika tehtäviä\Tokavika tehtäviä\obj\Debug\netcoreapp3.1\Tokavika tehtäviä.AssemblyInfo.cs
+C:\Users\samu.hamalainen\source\repot\ohjelmistokehittaja\Tehtäviä tokavika\Tokavika tehtäviä\Tokavika tehtäviä\obj\Debug\netcoreapp3.1\Tokavika tehtäviä.dll
+C:\Users\samu.hamalainen\source\repot\ohjelmistokehittaja\Tehtäviä tokavika\Tokavika tehtäviä\Tokavika tehtäviä\obj\Debug\netcoreapp3.1\Tokavika tehtäviä.pdb
+C:\Users\samu.hamalainen\source\repot\ohjelmistokehittaja\Tehtäviä tokavika\Tokavika tehtäviä\Tokavika tehtäviä\obj\Debug\netcoreapp3.1\Tokavika tehtäviä.genruntimeconfig.cache
