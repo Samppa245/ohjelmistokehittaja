@@ -79,7 +79,7 @@ namespace Tokavika_tehtäviä
             Console.WriteLine(jakojäänteet);
         }
 
-        wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+        wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
 
 
 
