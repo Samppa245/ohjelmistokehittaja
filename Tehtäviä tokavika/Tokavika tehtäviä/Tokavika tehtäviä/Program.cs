@@ -77,9 +77,30 @@ namespace Tokavika_tehtäviä
 
             double jakojäänteet = laskuv4(jakojäännös1, jakojäännös2);
             Console.WriteLine(jakojäänteet);
+
+
+            Console.WriteLine("KErro nimesi");
+            string timo = Console.ReadLine();
+            Console.WriteLine("Hei" + timo);
+
+
+            // on tehty jo 7 8 ja 9
+
+
+
+            int teuvo = int.Parse(Console.ReadLine());
+            for (int x = 0; x <= 10; x++)
+            {
+
+                int tulostus = teuvo * x;
+                Console.WriteLine(tulostus);
+
+
+            }
+
         }
 
-        wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+      
 
 
 
