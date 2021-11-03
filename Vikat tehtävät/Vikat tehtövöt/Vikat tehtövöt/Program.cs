@@ -27,9 +27,35 @@ namespace Vikat_tehtövöt
                 Console.WriteLine("SUUERMPI KUIN 10");
             }
             // teht 3
-           
-            
 
+
+
+            //teht 4
+
+            int luku = int.Parse(Console.ReadLine());
+            int lukuv2 = int.Parse(Console.ReadLine());
+            if (luku < 0 && lukuv2 < 0)
+            {
+                Console.WriteLine("Luvut ovat negatiivisia");
+
+            }
+            else if (luku > 0 && lukuv2 > 0)
+            {
+                Console.WriteLine("Luvut ovat positiivisia");
+            }
+            else if (luku == 0 || lukuv2 == 0)
+            {
+                Console.WriteLine("EI NOLLAA");
+            }
+            else
+            {
+                Console.WriteLine("Toinen luvuista on negatiivinen ja toine postiivine");
+            }
+
+            for(int z = 1; z <= 99; z+=2)
+            {
+                Console.WriteLine(z);
+            }
         }
     }
 }

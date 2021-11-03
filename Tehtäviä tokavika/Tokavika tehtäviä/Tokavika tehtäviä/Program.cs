@@ -6,7 +6,9 @@ namespace Tokavika_tehtäviä
     {
         static void Main()
         {
+            Console.WriteLine("-----------------");
             Console.WriteLine("TEHTÄVÄ 1");
+            Console.WriteLine("Anna kaksi numeroa ja ohjelma laskee ne yhteenn");
             static int lasku(int lasku1, int lasku2)
             {
 
@@ -19,8 +21,9 @@ namespace Tokavika_tehtäviä
 
            int summa = lasku(timo, timov2);
             Console.WriteLine(summa);
-
+            Console.WriteLine("-------------------");
             Console.WriteLine("TEHTÄVÄ 2");
+            Console.WriteLine("Anna celsius aste, niin ohjelma muuttaa ne fahrenheiteiski");
             static double laskuv2(int aste)
         {
 
@@ -33,8 +36,9 @@ namespace Tokavika_tehtäviä
 
         double asteet = laskuv2(astev1);
         Console.WriteLine(asteet);
-
+            Console.WriteLine("-----------------");
             Console.WriteLine("TEHTÄVÄ 3");
+            Console.WriteLine("kaksi lukua, niin ohjelma tekee kaikki peruslaskutoimitukset luvuille (plus, miinus, jako ja kerto)");
 
             static string laskuv3(double kaikkilaskut, double kaikkilaskutv2)
         {
@@ -56,8 +60,10 @@ namespace Tokavika_tehtäviä
 
             string kaikkilaskutv2 = laskuv3(kaikkilaskut1, kaikkilaskut2);
         Console.WriteLine(kaikkilaskutv2);
-
+           
+            Console.WriteLine("-----------------");
             Console.WriteLine("TEHTÄVÄ 4");
+            Console.WriteLine("Anna kaksi lukua, niin ohjelma antaa jakojäänteen");
 
 
 
@@ -77,8 +83,10 @@ namespace Tokavika_tehtäviä
 
             double jakojäänteet = laskuv4(jakojäännös1, jakojäännös2);
             Console.WriteLine(jakojäänteet);
-            
-            Console.WriteLine("TEHTÄVÄ 9");
+
+            Console.WriteLine("-----------------");
+            Console.WriteLine("TEHTÄVÄ 5");
+            Console.WriteLine("Kirjoita nimesi, niin ohjelma tervehtii sinua");
 
             Console.WriteLine("KErro nimesi ");
             string uuno = Console.ReadLine();
@@ -87,8 +95,9 @@ namespace Tokavika_tehtäviä
 
             // on tehty jo 7 8 ja 9
 
-
+            Console.WriteLine("-----------------");
             Console.WriteLine("TEHTÄVÄ 10");
+            Console.WriteLine("anna numero, niin ohjelma kertoo luvun kertotaulun");
             int teuvo = int.Parse(Console.ReadLine());
             for (int x = 0; x <= 10; x++)
             {
