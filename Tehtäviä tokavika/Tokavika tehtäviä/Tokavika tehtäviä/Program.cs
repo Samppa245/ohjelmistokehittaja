@@ -79,9 +79,9 @@ namespace Tokavika_tehtäviä
             Console.WriteLine(jakojäänteet);
 
 
-            Console.WriteLine("KErro nimesi");
-            string timo = Console.ReadLine();
-            Console.WriteLine("Hei" + timo);
+            Console.WriteLine("KErro nimesi ");
+            string uuno = Console.ReadLine();
+            Console.WriteLine("Hei " + timo);
 
 
             // on tehty jo 7 8 ja 9

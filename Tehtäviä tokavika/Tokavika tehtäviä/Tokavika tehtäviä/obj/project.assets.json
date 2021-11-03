@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samu.hamalainen\\source\\repot\\ohjelmistokehittaja\\Tehtäviä tokavika\\Tokavika tehtäviä\\Tokavika tehtäviä\\Tokavika tehtäviä.csproj",
+      "projectUniqueName": "C:\\Users\\samu.hamalainen\\source\\repos\\ohjelmistokehittaja\\Tehtäviä tokavika\\Tokavika tehtäviä\\Tokavika tehtäviä\\Tokavika tehtäviä.csproj",
       "projectName": "Tokavika tehtäviä",
-      "projectPath": "C:\\Users\\samu.hamalainen\\source\\repot\\ohjelmistokehittaja\\Tehtäviä tokavika\\Tokavika tehtäviä\\Tokavika tehtäviä\\Tokavika tehtäviä.csproj",
+      "projectPath": "C:\\Users\\samu.hamalainen\\source\\repos\\ohjelmistokehittaja\\Tehtäviä tokavika\\Tokavika tehtäviä\\Tokavika tehtäviä\\Tokavika tehtäviä.csproj",
       "packagesPath": "C:\\Users\\samu.hamalainen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samu.hamalainen\\source\\repot\\ohjelmistokehittaja\\Tehtäviä tokavika\\Tokavika tehtäviä\\Tokavika tehtäviä\\obj\\",
+      "outputPath": "C:\\Users\\samu.hamalainen\\source\\repos\\ohjelmistokehittaja\\Tehtäviä tokavika\\Tokavika tehtäviä\\Tokavika tehtäviä\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

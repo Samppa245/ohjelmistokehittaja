@@ -1,0 +1,13 @@
+C:\Users\samu.hamalainen\source\repos\ohjelmistokehittaja\Tehtavia vika\Tehtavia vika\Tehtavia vika\bin\Debug\netcoreapp3.1\Tehtavia vika.exe
+C:\Users\samu.hamalainen\source\repos\ohjelmistokehittaja\Tehtavia vika\Tehtavia vika\Tehtavia vika\bin\Debug\netcoreapp3.1\Tehtavia vika.deps.json
+C:\Users\samu.hamalainen\source\repos\ohjelmistokehittaja\Tehtavia vika\Tehtavia vika\Tehtavia vika\bin\Debug\netcoreapp3.1\Tehtavia vika.runtimeconfig.json
+C:\Users\samu.hamalainen\source\repos\ohjelmistokehittaja\Tehtavia vika\Tehtavia vika\Tehtavia vika\bin\Debug\netcoreapp3.1\Tehtavia vika.runtimeconfig.dev.json
+C:\Users\samu.hamalainen\source\repos\ohjelmistokehittaja\Tehtavia vika\Tehtavia vika\Tehtavia vika\bin\Debug\netcoreapp3.1\Tehtavia vika.dll
+C:\Users\samu.hamalainen\source\repos\ohjelmistokehittaja\Tehtavia vika\Tehtavia vika\Tehtavia vika\bin\Debug\netcoreapp3.1\Tehtavia vika.pdb
+C:\Users\samu.hamalainen\source\repos\ohjelmistokehittaja\Tehtavia vika\Tehtavia vika\Tehtavia vika\obj\Debug\netcoreapp3.1\Tehtavia vika.csprojAssemblyReference.cache
+C:\Users\samu.hamalainen\source\repos\ohjelmistokehittaja\Tehtavia vika\Tehtavia vika\Tehtavia vika\obj\Debug\netcoreapp3.1\Tehtavia vika.csproj.CoreCompileInputs.cache
+C:\Users\samu.hamalainen\source\repos\ohjelmistokehittaja\Tehtavia vika\Tehtavia vika\Tehtavia vika\obj\Debug\netcoreapp3.1\Tehtavia vika.AssemblyInfoInputs.cache
+C:\Users\samu.hamalainen\source\repos\ohjelmistokehittaja\Tehtavia vika\Tehtavia vika\Tehtavia vika\obj\Debug\netcoreapp3.1\Tehtavia vika.AssemblyInfo.cs
+C:\Users\samu.hamalainen\source\repos\ohjelmistokehittaja\Tehtavia vika\Tehtavia vika\Tehtavia vika\obj\Debug\netcoreapp3.1\Tehtavia vika.dll
+C:\Users\samu.hamalainen\source\repos\ohjelmistokehittaja\Tehtavia vika\Tehtavia vika\Tehtavia vika\obj\Debug\netcoreapp3.1\Tehtavia vika.pdb
+C:\Users\samu.hamalainen\source\repos\ohjelmistokehittaja\Tehtavia vika\Tehtavia vika\Tehtavia vika\obj\Debug\netcoreapp3.1\Tehtavia vika.genruntimeconfig.cache
