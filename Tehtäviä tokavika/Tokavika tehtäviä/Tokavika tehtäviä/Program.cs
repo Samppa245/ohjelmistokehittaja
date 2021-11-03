@@ -6,22 +6,22 @@ namespace Tokavika_tehtäviä
     {
         static void Main()
         {
-
+            Console.WriteLine("TEHTÄVÄ 1");
             static int lasku(int lasku1, int lasku2)
             {
 
                 return (lasku1 + lasku2);
                
             }
-
+            
             int timo = int.Parse(Console.ReadLine());
             int timov2 = int.Parse(Console.ReadLine());
 
            int summa = lasku(timo, timov2);
             Console.WriteLine(summa);
-        
 
-        static double laskuv2(int aste)
+            Console.WriteLine("TEHTÄVÄ 2");
+            static double laskuv2(int aste)
         {
 
                 return (aste  * 1.8 + 32);
@@ -33,10 +33,10 @@ namespace Tokavika_tehtäviä
 
         double asteet = laskuv2(astev1);
         Console.WriteLine(asteet);
-        
 
+            Console.WriteLine("TEHTÄVÄ 3");
 
-        static string laskuv3(double kaikkilaskut, double kaikkilaskutv2)
+            static string laskuv3(double kaikkilaskut, double kaikkilaskutv2)
         {
                 double plus = kaikkilaskut + kaikkilaskutv2;
                 double miinus = kaikkilaskut - kaikkilaskutv2;
@@ -52,11 +52,12 @@ namespace Tokavika_tehtäviä
         double kaikkilaskut1 = int.Parse(Console.ReadLine());
         double kaikkilaskut2 = int.Parse(Console.ReadLine());
 
+          
 
             string kaikkilaskutv2 = laskuv3(kaikkilaskut1, kaikkilaskut2);
         Console.WriteLine(kaikkilaskutv2);
 
-
+            Console.WriteLine("TEHTÄVÄ 4");
 
 
 
@@ -74,20 +75,20 @@ namespace Tokavika_tehtäviä
             double jakojäännös1 = double.Parse(Console.ReadLine());
             double jakojäännös2 = double.Parse(Console.ReadLine());
 
-
             double jakojäänteet = laskuv4(jakojäännös1, jakojäännös2);
             Console.WriteLine(jakojäänteet);
-
+            
+            Console.WriteLine("TEHTÄVÄ 9");
 
             Console.WriteLine("KErro nimesi ");
             string uuno = Console.ReadLine();
-            Console.WriteLine("Hei " + timo);
+            Console.WriteLine("Hei " + uuno);
 
 
             // on tehty jo 7 8 ja 9
 
 
-
+            Console.WriteLine("TEHTÄVÄ 10");
             int teuvo = int.Parse(Console.ReadLine());
             for (int x = 0; x <= 10; x++)
             {
