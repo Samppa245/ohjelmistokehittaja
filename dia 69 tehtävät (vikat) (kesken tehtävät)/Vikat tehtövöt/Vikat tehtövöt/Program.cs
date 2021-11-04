@@ -26,8 +26,22 @@ namespace Vikat_tehtövöt
             {
                 Console.WriteLine("SUUERMPI KUIN 10");
             }
-            // teht 3
+            // teht 13
+            string lause = Console.ReadLine();
+            string[] pilkkominen = lause.Split(' ');
+            int pituudet = 0;
+            string word = "";
 
+            foreach (string sanat in pilkkominen)
+            {
+                if (sanat.Length > pituudet)
+                {
+                    pituudet = sanat.Length;
+                    word = sanat;
+                }
+
+            }
+            Console.WriteLine("Isoin Sana on " + word);
 
 
             //teht 4
@@ -51,6 +65,13 @@ namespace Vikat_tehtövöt
             {
                 Console.WriteLine("Toinen luvuista on negatiivinen ja toine postiivine");
             }
+
+           
+
+
+            
+
+
 
             string kirjoitus = Console.ReadLine();
             char ekakirjain = kirjoitus[0];
