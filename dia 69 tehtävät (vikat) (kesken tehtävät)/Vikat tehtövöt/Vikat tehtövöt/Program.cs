@@ -63,7 +63,6 @@ namespace Vikat_tehtövöt
             string lisätty = vikakirjainv2 + poisto + ekakirjain;
             Console.WriteLine(lisätty);
 
-
             for (int z = 1; z <= 99; z+=2)
             {
                 Console.WriteLine(z);
