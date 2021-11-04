@@ -52,7 +52,19 @@ namespace Vikat_tehtövöt
                 Console.WriteLine("Toinen luvuista on negatiivinen ja toine postiivine");
             }
 
-            for(int z = 1; z <= 99; z+=2)
+            string kirjoitus = Console.ReadLine();
+            char ekakirjain = kirjoitus[0];
+            char vikakirjainv2 = kirjoitus[kirjoitus.Length - 1];
+            string vikakirjain = kirjoitus.Remove(kirjoitus.Length - 1);
+
+
+
+            string poisto = vikakirjain.Substring(1);
+            string lisätty = vikakirjainv2 + poisto + ekakirjain;
+            Console.WriteLine(lisätty);
+
+
+            for (int z = 1; z <= 99; z+=2)
             {
                 Console.WriteLine(z);
             }
