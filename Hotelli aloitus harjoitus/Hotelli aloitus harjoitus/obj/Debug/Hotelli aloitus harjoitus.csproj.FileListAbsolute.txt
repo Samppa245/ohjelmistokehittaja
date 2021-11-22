@@ -1,0 +1,25 @@
+C:\Users\samu.hamalainen\source\repot\ohjelmistokehittaja\Hotelli aloitus harjoitus\Hotelli aloitus harjoitus\bin\Debug\Hotelli aloitus harjoitus.exe.config
+C:\Users\samu.hamalainen\source\repot\ohjelmistokehittaja\Hotelli aloitus harjoitus\Hotelli aloitus harjoitus\bin\Debug\Hotelli aloitus harjoitus.exe
+C:\Users\samu.hamalainen\source\repot\ohjelmistokehittaja\Hotelli aloitus harjoitus\Hotelli aloitus harjoitus\bin\Debug\Hotelli aloitus harjoitus.pdb
+C:\Users\samu.hamalainen\source\repot\ohjelmistokehittaja\Hotelli aloitus harjoitus\Hotelli aloitus harjoitus\bin\Debug\MySql.Data.dll
+C:\Users\samu.hamalainen\source\repot\ohjelmistokehittaja\Hotelli aloitus harjoitus\Hotelli aloitus harjoitus\bin\Debug\Google.Protobuf.dll
+C:\Users\samu.hamalainen\source\repot\ohjelmistokehittaja\Hotelli aloitus harjoitus\Hotelli aloitus harjoitus\bin\Debug\Zstandard.Net.dll
+C:\Users\samu.hamalainen\source\repot\ohjelmistokehittaja\Hotelli aloitus harjoitus\Hotelli aloitus harjoitus\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\samu.hamalainen\source\repot\ohjelmistokehittaja\Hotelli aloitus harjoitus\Hotelli aloitus harjoitus\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\samu.hamalainen\source\repot\ohjelmistokehittaja\Hotelli aloitus harjoitus\Hotelli aloitus harjoitus\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\samu.hamalainen\source\repot\ohjelmistokehittaja\Hotelli aloitus harjoitus\Hotelli aloitus harjoitus\bin\Debug\System.Memory.dll
+C:\Users\samu.hamalainen\source\repot\ohjelmistokehittaja\Hotelli aloitus harjoitus\Hotelli aloitus harjoitus\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\samu.hamalainen\source\repot\ohjelmistokehittaja\Hotelli aloitus harjoitus\Hotelli aloitus harjoitus\bin\Debug\System.Buffers.dll
+C:\Users\samu.hamalainen\source\repot\ohjelmistokehittaja\Hotelli aloitus harjoitus\Hotelli aloitus harjoitus\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\samu.hamalainen\source\repot\ohjelmistokehittaja\Hotelli aloitus harjoitus\Hotelli aloitus harjoitus\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\samu.hamalainen\source\repot\ohjelmistokehittaja\Hotelli aloitus harjoitus\Hotelli aloitus harjoitus\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\samu.hamalainen\source\repot\ohjelmistokehittaja\Hotelli aloitus harjoitus\Hotelli aloitus harjoitus\bin\Debug\MySql.Data.xml
+C:\Users\samu.hamalainen\source\repot\ohjelmistokehittaja\Hotelli aloitus harjoitus\Hotelli aloitus harjoitus\obj\Debug\Hotelli aloitus harjoitus.csprojAssemblyReference.cache
+C:\Users\samu.hamalainen\source\repot\ohjelmistokehittaja\Hotelli aloitus harjoitus\Hotelli aloitus harjoitus\obj\Debug\Hotelli aloitus harjoitus.exe.config
+C:\Users\samu.hamalainen\source\repot\ohjelmistokehittaja\Hotelli aloitus harjoitus\Hotelli aloitus harjoitus\obj\Debug\Hotelli_aloitus_harjoitus.Form1.resources
+C:\Users\samu.hamalainen\source\repot\ohjelmistokehittaja\Hotelli aloitus harjoitus\Hotelli aloitus harjoitus\obj\Debug\Hotelli_aloitus_harjoitus.Properties.Resources.resources
+C:\Users\samu.hamalainen\source\repot\ohjelmistokehittaja\Hotelli aloitus harjoitus\Hotelli aloitus harjoitus\obj\Debug\Hotelli aloitus harjoitus.csproj.GenerateResource.cache
+C:\Users\samu.hamalainen\source\repot\ohjelmistokehittaja\Hotelli aloitus harjoitus\Hotelli aloitus harjoitus\obj\Debug\Hotelli aloitus harjoitus.csproj.CoreCompileInputs.cache
+C:\Users\samu.hamalainen\source\repot\ohjelmistokehittaja\Hotelli aloitus harjoitus\Hotelli aloitus harjoitus\obj\Debug\Hotelli aloitus harjoitus.csproj.CopyComplete
+C:\Users\samu.hamalainen\source\repot\ohjelmistokehittaja\Hotelli aloitus harjoitus\Hotelli aloitus harjoitus\obj\Debug\Hotelli aloitus harjoitus.exe
+C:\Users\samu.hamalainen\source\repot\ohjelmistokehittaja\Hotelli aloitus harjoitus\Hotelli aloitus harjoitus\obj\Debug\Hotelli aloitus harjoitus.pdb
