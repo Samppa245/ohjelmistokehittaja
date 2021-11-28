@@ -31,10 +31,12 @@ namespace ConsoleApp1
         {
             if (onklain == "Ei")
             {
+                Console.WriteLine("Kirja on lainattu");
                 return onklain = "Kyllä";
             }
             else
             {
+                Console.WriteLine("Kirjaa ei voi lainata uuestaan");
                 return "";
             }
         }
@@ -56,6 +58,19 @@ namespace ConsoleApp1
             if (onklain == "Ei")
             {
                 return Nim;
+            }
+            else
+            {
+                return "";
+            }
+        }
+        public string Palautus()
+        {
+            if (onklain == "Kyllä")
+            {
+
+
+                return onklain = "Ei";
             }
             else
             {

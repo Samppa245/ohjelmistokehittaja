@@ -6,6 +6,7 @@ namespace ConsoleApp1
     {
         static void Main()
         {
+            
             Koodi kirja1 = new Koodi("Timo", "merimakkara", "110", "Ei", "a");
             Koodi kirja2 = new Koodi("Pekka", "Puukasamn elämänkerta", "654", "Ei", "b");
             Koodi kirja3 = new Koodi("tuomo", "seilauksen opas", "432", "Ei", "c");
@@ -13,6 +14,7 @@ namespace ConsoleApp1
             Koodi kirja5 = new Koodi("olli", "ollin meriseikkaile", "515", "Ei", "e");
             string kysymys;
             alkujuttu();
+     
             void alkujuttu()
             {
                 Console.WriteLine("Hei tervetuloa kirjastoon! Mitä haluat tehdä?, Kirjoita Selata, jos haluat kirjat. Kirjoita poistua jos haluat poistua, kirjoita Lainata, jos haluat lainata");
@@ -30,6 +32,10 @@ namespace ConsoleApp1
                 {
                     poistua();
                 }
+                if (kysymys == "Palautus")
+                {
+                    palauttaa();
+                }
             }
 
             void prosessi()
@@ -37,6 +43,9 @@ namespace ConsoleApp1
 
                 Console.WriteLine("Kerro tuoteavain, jos haluat lainata");
                     string kysymysv2 = Console.ReadLine();
+
+
+
                     switch (kysymysv2)
                     {
                         case "a":
@@ -55,10 +64,36 @@ namespace ConsoleApp1
                             kirja5.lainauscheck();
                             break;
                     }
-                Console.WriteLine("Kirja on lainattu");
-                    alkujuttu();
+         
 
+                alkujuttu();
             }
+
+            void palauttaa()
+            {
+                string Kysmys = Console.ReadLine();
+
+                switch (Kysmys)
+                {
+                    case "a":
+                        kirja1.Palautus();
+                        break;
+                    case "b":
+                        kirja2.Palautus();
+                        break;
+                    case "c":
+                        kirja3.Palautus();
+                        break;
+                    case "d":
+                        kirja4.Palautus();
+                        break;
+                    case "e":
+                        kirja5.Palautus();
+                        break;
+                }
+                alkujuttu(); 
+            }
+            
 
             
 
@@ -96,6 +131,9 @@ namespace ConsoleApp1
             {
                 Console.WriteLine("Kiitos käynnistä");
             }
+
         }
     }
+
+   
 }

@@ -11,3 +11,14 @@ C:\Users\samu.hamalainen\source\repos\ohjelmistokehittaja\Uus projekti\ConsoleAp
 C:\Users\samu.hamalainen\source\repos\ohjelmistokehittaja\Uus projekti\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
 C:\Users\samu.hamalainen\source\repos\ohjelmistokehittaja\Uus projekti\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
 C:\Users\samu.hamalainen\source\repos\ohjelmistokehittaja\Uus projekti\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Samuh\Desktop\Uusi kansio (7)\ohjelmistokehittaja\Uus projekti\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\Samuh\Desktop\Uusi kansio (7)\ohjelmistokehittaja\Uus projekti\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\Samuh\Desktop\Uusi kansio (7)\ohjelmistokehittaja\Uus projekti\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\Samuh\Desktop\Uusi kansio (7)\ohjelmistokehittaja\Uus projekti\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Samuh\Desktop\Uusi kansio (7)\ohjelmistokehittaja\Uus projekti\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Samuh\Desktop\Uusi kansio (7)\ohjelmistokehittaja\Uus projekti\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Samuh\Desktop\Uusi kansio (7)\ohjelmistokehittaja\Uus projekti\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Samuh\Desktop\Uusi kansio (7)\ohjelmistokehittaja\Uus projekti\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Samuh\Desktop\Uusi kansio (7)\ohjelmistokehittaja\Uus projekti\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Samuh\Desktop\Uusi kansio (7)\ohjelmistokehittaja\Uus projekti\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Samuh\Desktop\Uusi kansio (7)\ohjelmistokehittaja\Uus projekti\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
