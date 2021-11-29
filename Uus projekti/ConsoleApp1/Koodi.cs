@@ -13,11 +13,11 @@ namespace ConsoleApp1
         string t;
         public Koodi(string nimi, string kirjoittaja, string sivut, string onkolainattu, string tunnus)
         {
-            Nim = nimi;
-            kirj = kirjoittaja;
-            siv = sivut;
+            Nim = "Kirja: " + nimi;
+            kirj = "Kirjoittajan nimi: " + kirjoittaja;
+            siv = "Sivujen määrä: " + sivut;
             onklain = onkolainattu;
-            t = tunnus;
+            t = "Tuoteavain: " + tunnus;
 
         }
 
@@ -92,6 +92,7 @@ namespace ConsoleApp1
         {
             if (onklain == "Ei")
             {
+            
                 return siv;
             }
             else

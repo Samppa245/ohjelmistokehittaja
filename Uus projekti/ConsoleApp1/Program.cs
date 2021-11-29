@@ -19,20 +19,20 @@ namespace ConsoleApp1
             {
                 Console.WriteLine("Hei tervetuloa kirjastoon! Mitä haluat tehdä?, Kirjoita Selata, jos haluat kirjat. Kirjoita poistua jos haluat poistua, kirjoita Lainata, jos haluat lainata");
                 kysymys = Console.ReadLine();
-                if (kysymys == "Lainata")
+                if (kysymys == "Lainata" || kysymys == "lainata")
                 {
                     prosessi();
 
                 }
-            if(kysymys == "Selata")
+            if(kysymys == "Selata" || kysymys == "selata")
                 {
                     selaus();
                 }
-            if(kysymys == "poistua")
+            if(kysymys == "poistua" || kysymys == "Poistua")
                 {
                     poistua();
                 }
-                if (kysymys == "Palautus")
+                if (kysymys == "Palautus" || kysymys == "palautus")
                 {
                     palauttaa();
                 }
@@ -41,7 +41,7 @@ namespace ConsoleApp1
             void prosessi()
             {
 
-                Console.WriteLine("Kerro tuoteavain, jos haluat lainata");
+                Console.WriteLine("Kerro tuoteavain, jos haluat lainata(tuoteavain löyty selata kohdasta)");
                     string kysymysv2 = Console.ReadLine();
 
 
@@ -102,8 +102,8 @@ namespace ConsoleApp1
                 string[] taul2 = {   kirja2.kirjannimit(), kirja2.kirjoittajat(),  kirja2.sivutt(),  kirja2.kirjaint(), "" };
                 string[] taul3 = {  kirja3.kirjannimit(),  kirja3.kirjoittajat(),   kirja3.sivutt(),  kirja3.kirjaint(), "" };
                 string[] taul4 = {   kirja4.kirjannimit(),  kirja4.kirjoittajat(),  kirja4.sivutt(),  kirja4.kirjaint(), "" };
-                string[] taul5 = {   kirja5.kirjannimit(),  kirja5.kirjoittajat(),   kirja5.sivutt(),  kirja5.kirjaint(), "" }; 
-                
+                string[] taul5 = {   kirja5.kirjannimit(),  kirja5.kirjoittajat(),   kirja5.sivutt(),  kirja5.kirjaint(), "" };
+
                 foreach (string taulukot in taul1)
                     {
                         Console.WriteLine(taulukot);
