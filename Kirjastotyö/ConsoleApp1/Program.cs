@@ -13,7 +13,7 @@ namespace ConsoleApp1
             Koodi kirja2 = new Koodi("Pekka", "Puukasamn elämänkerta", "654", "Ei", "b");
             Koodi kirja3 = new Koodi("tuomo", "seilauksen opas", "432", "Ei", "c");
             Koodi kirja4 = new Koodi("marja", "teppo ja timon seikkailu", "100", "Ei", "d");
-            Koodi kirja5 = new Koodi("olli", "ollin meriseikkaile", "515", "Ei", "e");
+            Koodi kirja5 = new Koodi("olli", "ollin meriseikkailu", "515", "Ei", "e");
             string kysymys;
             alkujuttu();
      
@@ -43,8 +43,8 @@ namespace ConsoleApp1
                     Console.WriteLine("Tekstisi on virheellinen");
                     alkujuttu();
                 }
-            }
 
+            }
             void prosessi()
             {
 
@@ -88,7 +88,7 @@ namespace ConsoleApp1
 
             void palauttaa()
             {
-                Console.WriteLine("Kerro kirjan tuotenumero, jonka haluat palauttaa");
+                Console.WriteLine("Kerro kirjan tuotenumero, jonka haluat palauttaa(tuoteavain on sama kuin lainatun kirjan tuoteavain)");
                 string Kysmys = Console.ReadLine();
 
                 switch (Kysmys)
@@ -152,7 +152,9 @@ namespace ConsoleApp1
             {
                 Console.Clear();
                 Console.WriteLine("Kiitos käynnistä");
-             
+                Environment.Exit(0);
+
+
             }
 
         }

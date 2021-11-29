@@ -13,8 +13,8 @@ namespace ConsoleApp1
         string t;
         public Koodi(string nimi, string kirjoittaja, string sivut, string onkolainattu, string tunnus)
         {
-            Nim = "Kirja: " + nimi;
-            kirj = "Kirjoittajan nimi: " + kirjoittaja;
+            Nim = "kirjoittajan nimi: " + nimi;
+            kirj = "kirjannimi: " + kirjoittaja;
             siv = "Sivujen määrä: " + sivut;
             onklain = onkolainattu;
             t = "Tuoteavain: " + tunnus;
