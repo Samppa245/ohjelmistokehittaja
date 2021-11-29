@@ -9,7 +9,7 @@ namespace ConsoleApp1
         string Nim;
         string kirj;
         string siv;
-        string onklain;
+        private string onklain;
         string t;
         public Koodi(string nimi, string kirjoittaja, string sivut, string onkolainattu, string tunnus)
         {
@@ -21,23 +21,32 @@ namespace ConsoleApp1
 
         }
 
+        public string onkokyllä
+
+        {
+           
+            get { return onklain; }
+            set { onklain = value; }
+           
+        }
+
+        
 
 
-
-
-
-
-        public string lainauscheck()
+        public void lainauscheck()
         {
             if (onklain == "Ei")
             {
                 Console.WriteLine("Kirja on lainattu");
-                return onklain = "Kyllä";
+                
+
+                onkokyllä = "Kyllä";
+                
             }
             else
             {
                 Console.WriteLine("Kirjaa ei voi lainata uuestaan");
-                return "";
+           
             }
         }
 
