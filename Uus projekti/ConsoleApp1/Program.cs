@@ -71,6 +71,7 @@ namespace ConsoleApp1
 
             void palauttaa()
             {
+                Console.WriteLine("Kerro kirjan tuotenumero, jonka haluat palauttaa");
                 string Kysmys = Console.ReadLine();
 
                 switch (Kysmys)

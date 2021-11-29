@@ -69,11 +69,12 @@ namespace ConsoleApp1
             if (onklain == "Kyllä")
             {
 
-
+                Console.WriteLine("Kirja on palautettu");
                 return onklain = "Ei";
             }
             else
             {
+                Console.WriteLine("Et ole lainannut kirjaa");
                 return "";
             }
         }
