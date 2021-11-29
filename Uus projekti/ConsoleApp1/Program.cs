@@ -17,7 +17,7 @@ namespace ConsoleApp1
      
             void alkujuttu()
             {
-                Console.WriteLine("Hei tervetuloa kirjastoon! Mitä haluat tehdä?, Kirjoita Selata, jos haluat kirjat. Kirjoita poistua jos haluat poistua, kirjoita Lainata, jos haluat lainata");
+                Console.WriteLine("Hei tervetuloa kirjastoon! Mitä haluat tehdä? Kirjoita Selata, jos haluat kirjat. Kirjoita poistua jos haluat poistua, kirjoita Lainata, jos haluat lainata ja kirjoita palautus, jos haluat palauttaa");
                 kysymys = Console.ReadLine();
                 if (kysymys == "Lainata" || kysymys == "lainata")
                 {
@@ -63,7 +63,12 @@ namespace ConsoleApp1
                         case "e":
                             kirja5.lainauscheck();
                             break;
-                    }
+                    default:
+                        Console.WriteLine("Tuoteavainta ei ole olemassa");
+                        break;
+                    } 
+                
+             
          
 
                 alkujuttu();
@@ -131,6 +136,7 @@ namespace ConsoleApp1
             void poistua()
             {
                 Console.WriteLine("Kiitos käynnistä");
+             
             }
 
         }
