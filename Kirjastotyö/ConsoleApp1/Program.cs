@@ -6,7 +6,9 @@ namespace ConsoleApp1
     {
         static void Main()
         {
-            
+            Console.WriteLine("Hei tervetuloa kirjastoon!");
+
+
             Koodi kirja1 = new Koodi("Timo", "merimakkara", "110", "Ei", "a");
             Koodi kirja2 = new Koodi("Pekka", "Puukasamn elämänkerta", "654", "Ei", "b");
             Koodi kirja3 = new Koodi("tuomo", "seilauksen opas", "432", "Ei", "c");
@@ -17,7 +19,7 @@ namespace ConsoleApp1
      
             void alkujuttu()
             {
-                Console.WriteLine("Hei tervetuloa kirjastoon! Mitä haluat tehdä? (Selata, Lainata, Palauttaa, Poistua)");
+                Console.WriteLine(" Mitä haluat tehdä? (Selata, Lainata, Palauttaa, Poistua)");
                 kysymys = Console.ReadLine();
                 if (kysymys == "Lainata" || kysymys == "lainata")
                 {
@@ -36,13 +38,23 @@ namespace ConsoleApp1
                 {
                     palauttaa();
                 }
+                else
+                {
+                    Console.WriteLine("Tekstisi on virheellinen");
+                    alkujuttu();
+                }
             }
 
             void prosessi()
             {
 
                 Console.WriteLine("Kerro tuoteavain, jos haluat lainata(tuoteavain löyty selata kohdasta)");
+           
                     string kysymysv2 = Console.ReadLine();
+                if(kysymysv2 == "selata" || kysymysv2 == "Selata")
+                {
+                    selaus();
+                }
 
 
 
@@ -96,6 +108,9 @@ namespace ConsoleApp1
                     case "e":
                         kirja5.Palautus();
                         break;
+                    default: 
+                        Console.WriteLine("Tuotenumeroa ei ole olemassa");
+                        break;
                 }
                 alkujuttu(); 
             }
@@ -135,6 +150,7 @@ namespace ConsoleApp1
             
             void poistua()
             {
+                Console.Clear();
                 Console.WriteLine("Kiitos käynnistä");
              
             }
